@@ -4,7 +4,7 @@ This repository contains input files and analysis code used in the paper.
 
 ## Contents
 ### 1) Simulations
-The `Simulation/` folder contains the input files required to run atomistic simulations with **GROMACS 2022.5** (e.g., topologies, parameter files, and run scripts).
+The `Simulation/` folder contains the input files required to run atomistic simulations with **GROMACS 2022.5**
 
 Simulation trajectories are not included in this repository. For questions about accessing or using the trajectories, please contact:
 - yc638@cam.ac.uk
